@@ -7,4 +7,4 @@ Also contains a python code for showing the accuracy
 1. Clone the repository:git clone <repository_url>
 2. Navigate to the project directory:cd sentiment-analysis-web-app
 3. Install the required dependencies:pip install -r requirements.txt
-4. 1. Run the Flask application:python app.py
+4. Run the Flask application:python app.py
